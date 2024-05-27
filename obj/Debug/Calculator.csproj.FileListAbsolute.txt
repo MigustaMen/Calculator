@@ -1,0 +1,7 @@
+C:\_up-step\GitHub\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\_up-step\GitHub\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\_up-step\GitHub\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\_up-step\GitHub\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\_up-step\GitHub\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\_up-step\GitHub\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\_up-step\GitHub\Calculator\Calculator\obj\Debug\Calculator.pdb
